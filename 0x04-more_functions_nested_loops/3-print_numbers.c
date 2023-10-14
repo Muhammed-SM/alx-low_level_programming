@@ -2,7 +2,7 @@
 
 /**
 *print_numbers - print 0123456789
-*followed by a new line 
+*followed by a new line
 *Return: void
 */
 
